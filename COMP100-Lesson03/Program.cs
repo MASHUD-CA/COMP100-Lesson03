@@ -10,7 +10,13 @@ namespace COMP100_Lesson03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");   
+            Console.WriteLine("Hello World");  
+             //File Version Control
+             //Sync to Synchronization to Change
+             //Write the changes 
+             //Press Commit All button
+             //
+
         }
     }
 }
