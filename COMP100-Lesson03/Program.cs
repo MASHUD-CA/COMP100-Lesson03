@@ -15,7 +15,8 @@ namespace COMP100_Lesson03
              //Sync to Synchronization to Change
              //Write the changes 
              //Press Commit All button
-             //
+             // Sync to share changes
+             // Press Push icon for outgoing commits.
 
         }
     }
