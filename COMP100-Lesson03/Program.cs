@@ -10,7 +10,7 @@ namespace COMP100_Lesson03
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World");   
         }
     }
 }
